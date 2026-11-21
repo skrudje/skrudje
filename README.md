@@ -1,12 +1,1 @@
-<img src="assets/banner-information-security.jpg" alt="skrudjee — Information Security &amp; Frontend developer" width="75%">
-
-## Tech stack
-
-<img src="assets/stack/typescript.png" alt="TypeScript" width="98" height="27"> <img src="assets/stack/react.png" alt="React" width="65" height="27"> <img src="assets/stack/nextjs.png" alt="Next.js" width="74" height="27"> <img src="assets/stack/vite.png" alt="Vite" width="55" height="27"> <img src="assets/stack/tailwind.png" alt="Tailwind CSS" width="113" height="27"> <img src="assets/stack/cpp.png" alt="C++" width="55" height="27"><br>
-<img src="assets/stack/postgresql.png" alt="PostgreSQL" width="107" height="27"> <img src="assets/stack/prisma.png" alt="Prisma" width="73" height="27"> <img src="assets/stack/docker.png" alt="Docker" width="76" height="27"> <img src="assets/stack/git.png" alt="Git" width="48" height="27"> <img src="assets/stack/nginx.png" alt="NGINX" width="76" height="27"> <img src="assets/stack/figma.png" alt="Figma" width="68" height="27">
-
-## Toolbox
-
-<img src="assets/toolbox.png" alt="Toolbox. Systems — Linux and Kali Linux. Workflow — GitHub Actions and Playwright. Contact — Gmail, Discord and Telegram." width="75%">
-
-<sub>Artwork credits: [Tux by Larry Ewing, made with GIMP](https://commons.wikimedia.org/wiki/File:Tux.png) · [Kali Linux icon via Simple Icons](https://github.com/simple-icons/simple-icons/blob/develop/icons/kalilinux.svg)</sub>
+<img src="assets/terminal-profile.png" width="75%" alt="skrudjee — Information Security &amp; Frontend developer. Stack: TypeScript, React, Next.js, Vite, Tailwind CSS, C++, PostgreSQL, Prisma, Docker, Git, NGINX, Figma. System: Linux and Kali Linux. Workflow: GitHub Actions and Playwright. Contacts: Gmail, Discord and Telegram.">
