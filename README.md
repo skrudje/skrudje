@@ -1,4 +1,4 @@
-![skrudjee — InfoSec & Frontend developer](assets/banner.jpg)
+<img src="assets/banner-information-security.jpg" alt="skrudjee — Information Security &amp; Frontend developer" width="75%">
 
 ## Tech stack
 
@@ -7,6 +7,6 @@
 
 ## Toolbox
 
-![Toolbox. Systems — Linux and Kali Linux. Workflow — GitHub Actions and Playwright. Contact — Gmail, Discord and Telegram.](assets/toolbox.png)
+<img src="assets/toolbox.png" alt="Toolbox. Systems — Linux and Kali Linux. Workflow — GitHub Actions and Playwright. Contact — Gmail, Discord and Telegram." width="75%">
 
 <sub>Artwork credits: [Tux by Larry Ewing, made with GIMP](https://commons.wikimedia.org/wiki/File:Tux.png) · [Kali Linux icon via Simple Icons](https://github.com/simple-icons/simple-icons/blob/develop/icons/kalilinux.svg)</sub>
