@@ -1,8 +1,8 @@
-# Hi, I'm Andrey / skrudjee
+<h1><samp>Hi, I'm Andrey / skrudjee</samp></h1>
 
 ### Information Security & Frontend Developer
 
-### Frontend
+<h3><samp>Frontend</samp></h3>
 
 <p>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-302547?style=flat&logo=typescript&logoColor=DAB7FF" width="122" height="28">
@@ -12,7 +12,15 @@
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-29343D?style=flat&logo=tailwindcss&logoColor=D0E8EC" width="139" height="28">
 </p>
 
-### Data & Infrastructure
+<h3><samp>Backend</samp></h3>
+
+<p>
+<img alt="C" src="https://img.shields.io/badge/C-302547?style=flat&logo=c&logoColor=DAB7FF" width="55" height="28">
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-302547?style=flat&logo=cplusplus&logoColor=DAB7FF" width="74" height="28">
+<img alt="Python" src="https://img.shields.io/badge/Python-493021?style=flat&logo=python&logoColor=EDAA70" width="94" height="28">
+</p>
+
+<h3><samp>Data &amp; Infrastructure</samp></h3>
 
 <p>
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-302547?style=flat&logo=postgresql&logoColor=DAB7FF" width="127" height="28">
@@ -21,17 +29,16 @@
 <img alt="NGINX" src="https://img.shields.io/badge/NGINX-29343D?style=flat&logo=nginx&logoColor=D0E8EC" width="91" height="28">
 </p>
 
-### Security & Tools
+<h3><samp>Security &amp; Tools</samp></h3>
 
 <p>
 <img alt="Linux" src="https://img.shields.io/badge/Linux-493021?style=flat&logo=linux&logoColor=EDAA70" width="80" height="28">
 <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-302547?style=flat&logo=kalilinux&logoColor=DAB7FF" width="113" height="28">
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-302547?style=flat&logo=cplusplus&logoColor=DAB7FF" width="74" height="28">
 <img alt="Git" src="https://img.shields.io/badge/Git-493021?style=flat&logo=git&logoColor=EDAA70" width="60" height="28">
 <img alt="Figma" src="https://img.shields.io/badge/Figma-302547?style=flat&logo=figma&logoColor=DAB7FF" width="85" height="28">
 </p>
 
-### Contacts
+<h3><samp>Contacts</samp></h3>
 
 <p>
 <a href="mailto:skrudjbz@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-302547?style=flat&logo=gmail&logoColor=DAB7FF" width="83" height="28"></a>
